@@ -1,4 +1,4 @@
-fname = input('Enter file name: ')
+fname = './data/mbox-short.txt'
 fhand = open('./data/' + fname)
 c = dict()
 for line in fhand:
