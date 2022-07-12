@@ -1,6 +1,7 @@
 # Beginner를 위한 위맞썬(위기에 맞선 파이썬) 연구모임
 
-- 비기너 코스 6주 공개강좌 '모두를 위한 파이썬' 활용 진행
+- 비기너 코스 6주 
+- 공개강좌 '모두를 위한 파이썬' 활용 진행
    * 공식홈페이지: https://www.py4e.com
    * 코드 및 파일 다운로드: https://www.py4e.com/code3/
    * 한글자막 제공: https://www.edwith.org/pythonforeverybody 또는 https://m.boostcourse.org/cs122
