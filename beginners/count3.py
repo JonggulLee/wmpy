@@ -1,5 +1,5 @@
 
-fhand = open('romeo.txt')
+fhand = open('./data/romeo.txt')
 counts = dict()
 for line in fhand:
     words = line.split()
