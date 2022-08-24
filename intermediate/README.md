@@ -4,7 +4,7 @@
 - 매주 화요일 14시~ 15시 중측동 4층 회의실 & zoom
 - 실습환경: Jupyterlab by Binder
 - 참고자료: 
-  - [Kaggle pandas tutorial](https://www.kaggle.com/learn/pandas) (1-4
+  - [Kaggle pandas tutorial](https://www.kaggle.com/learn/pandas) (1-4주차)
   - [파이썬으로 데이터 주무르기(민형기)](https://github.com/PinkWink/DataScience) (5-6주차)
 
 ## Pandas Introduction (1~4주)
