@@ -6,6 +6,8 @@
 - 참고자료: 
   - [Kaggle pandas tutorial](https://www.kaggle.com/learn/pandas) (1-4주차)
   - [파이썬으로 데이터 주무르기(민형기)](https://github.com/PinkWink/DataScience) (5-6주차)
+- 문의: 이종걸 책임공무직 / 김서현 주무관
+
 
 ## Pandas Introduction (1~4주)
 ### 1주차 8.30.
@@ -35,9 +37,4 @@
 
 ### 4주차 10.18.(화)
 - 코로나19 데이터 분석(2)
-
-
-
-위맞썬 연구모임에 문의 사항 있으시면 언제든지 연락주세요.
-(김서현 주무관 / 이종걸 책임공무직)
 
